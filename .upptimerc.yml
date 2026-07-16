@@ -7,6 +7,12 @@ sites:
     url: https://index.ba
   - name: Index.ba Status
     url: https://status.index.ba
+  - name: Index.ba Status Upptime
+    url: https://upptime.status.index.ba
+  - name: Index.ba Status Hetrix
+    url: https://hetrix.status.index.ba
+  - name: Index.ba Status UptimeRobot
+    url: https://stats.uptimerobot.com/g28HKcT2rX
   - name: Index.ba Search Engine
     url: https://index.ba/?s=index
   - name: Index.ba Najnovije
