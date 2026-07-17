@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 549,
-    "timeDay": 530,
-    "timeWeek": 549,
-    "timeMonth": 549,
-    "timeYear": 549,
+    "time": 548,
+    "timeDay": 529,
+    "timeWeek": 548,
+    "timeMonth": 548,
+    "timeYear": 548,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 393,
+    "time": 392,
     "timeDay": 394,
-    "timeWeek": 393,
-    "timeMonth": 393,
-    "timeYear": 393,
+    "timeWeek": 392,
+    "timeMonth": 392,
+    "timeYear": 392,
     "dailyMinutesDown": {}
   },
   {
@@ -58,19 +58,19 @@
     "url": "https://hetrix.status.index.ba",
     "icon": "https://icons.duckduckgo.com/ip3/hetrix.status.index.ba.ico",
     "slug": "index-ba-status-hetrix",
-    "status": "down",
-    "uptime": "98.96%",
-    "uptimeDay": "98.88%",
-    "uptimeWeek": "98.96%",
-    "uptimeMonth": "98.96%",
-    "uptimeYear": "98.96%",
+    "status": "up",
+    "uptime": "98.87%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "98.87%",
+    "uptimeMonth": "98.87%",
+    "uptimeYear": "98.87%",
     "time": 582,
     "timeDay": 583,
     "timeWeek": 582,
     "timeMonth": 582,
     "timeYear": 582,
     "dailyMinutesDown": {
-      "2026-07-17": 16
+      "2026-07-17": 17
     }
   },
   {
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4507,
-    "timeDay": 4454,
-    "timeWeek": 4507,
-    "timeMonth": 4507,
-    "timeYear": 4507,
+    "time": 4501,
+    "timeDay": 4447,
+    "timeWeek": 4501,
+    "timeMonth": 4501,
+    "timeYear": 4501,
     "dailyMinutesDown": {}
   },
   {
@@ -120,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 269,
-    "timeDay": 268,
-    "timeWeek": 269,
-    "timeMonth": 269,
-    "timeYear": 269,
+    "time": 268,
+    "timeDay": 267,
+    "timeWeek": 268,
+    "timeMonth": 268,
+    "timeYear": 268,
     "dailyMinutesDown": {}
   }
 ]
